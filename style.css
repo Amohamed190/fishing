@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+#mycanvas {
+  border: 2px solid;
+}
+
+#cloud {
+  display: none;
+}
